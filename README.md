@@ -36,7 +36,7 @@ Note: `xsel` users should use `gist.rb` v4.1.2+, since there is [a bug bitting x
 
 [151]: https://github.com/defunkt/gist/pull/151
 
-# palisade
+# rf_rgb
 
 - [csearch](https://github.com/google/codesearch)
 
